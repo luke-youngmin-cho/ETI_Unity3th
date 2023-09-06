@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Collections_And_Algos/1.0.0": {
+        "runtime": {
+          "Collections_And_Algos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Collections_And_Algos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

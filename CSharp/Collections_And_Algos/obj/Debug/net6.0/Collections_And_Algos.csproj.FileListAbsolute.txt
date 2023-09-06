@@ -1,0 +1,15 @@
+C:\Users\etl\Documents\GitHub\ETI_Unity_Collections\CSharp\Collections_And_Algos\bin\Debug\net6.0\Collections_And_Algos.exe
+C:\Users\etl\Documents\GitHub\ETI_Unity_Collections\CSharp\Collections_And_Algos\bin\Debug\net6.0\Collections_And_Algos.deps.json
+C:\Users\etl\Documents\GitHub\ETI_Unity_Collections\CSharp\Collections_And_Algos\bin\Debug\net6.0\Collections_And_Algos.runtimeconfig.json
+C:\Users\etl\Documents\GitHub\ETI_Unity_Collections\CSharp\Collections_And_Algos\bin\Debug\net6.0\Collections_And_Algos.dll
+C:\Users\etl\Documents\GitHub\ETI_Unity_Collections\CSharp\Collections_And_Algos\bin\Debug\net6.0\Collections_And_Algos.pdb
+C:\Users\etl\Documents\GitHub\ETI_Unity_Collections\CSharp\Collections_And_Algos\obj\Debug\net6.0\Collections_And_Algos.csproj.AssemblyReference.cache
+C:\Users\etl\Documents\GitHub\ETI_Unity_Collections\CSharp\Collections_And_Algos\obj\Debug\net6.0\Collections_And_Algos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\etl\Documents\GitHub\ETI_Unity_Collections\CSharp\Collections_And_Algos\obj\Debug\net6.0\Collections_And_Algos.AssemblyInfoInputs.cache
+C:\Users\etl\Documents\GitHub\ETI_Unity_Collections\CSharp\Collections_And_Algos\obj\Debug\net6.0\Collections_And_Algos.AssemblyInfo.cs
+C:\Users\etl\Documents\GitHub\ETI_Unity_Collections\CSharp\Collections_And_Algos\obj\Debug\net6.0\Collections_And_Algos.csproj.CoreCompileInputs.cache
+C:\Users\etl\Documents\GitHub\ETI_Unity_Collections\CSharp\Collections_And_Algos\obj\Debug\net6.0\Collections_And_Algos.dll
+C:\Users\etl\Documents\GitHub\ETI_Unity_Collections\CSharp\Collections_And_Algos\obj\Debug\net6.0\refint\Collections_And_Algos.dll
+C:\Users\etl\Documents\GitHub\ETI_Unity_Collections\CSharp\Collections_And_Algos\obj\Debug\net6.0\Collections_And_Algos.pdb
+C:\Users\etl\Documents\GitHub\ETI_Unity_Collections\CSharp\Collections_And_Algos\obj\Debug\net6.0\Collections_And_Algos.genruntimeconfig.cache
+C:\Users\etl\Documents\GitHub\ETI_Unity_Collections\CSharp\Collections_And_Algos\obj\Debug\net6.0\ref\Collections_And_Algos.dll
